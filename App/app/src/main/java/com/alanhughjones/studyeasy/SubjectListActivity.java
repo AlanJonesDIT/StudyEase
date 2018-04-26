@@ -59,7 +59,7 @@ public class SubjectListActivity extends AppCompatActivity {
                     taskOverview.putExtra("name",subject);
                     startActivity(taskOverview);
                 } else {
-                    toastMessage("No ID associated with that name");
+                    toastMessage("Please add a new subject");
                 }
             }
         });

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Easy</string>
+    <string name="add_subj_txt">Adicione assunto</string>
+    <string name="study_ease_app_logo">Study Easy logo</string>
+    <string name="add_subject">Adicione assunto</string>
+    <string name="enter_subject">Adicione mat\u00E9ria/assunto:</string>
+    <string name="done">Completo</string>
+    <string name="new_task">Nova atividade</string>
+    <string name="task_name_input">Nome da atividade:</string>
+    <string name="duedate_input">Prazo:</string>
+    <string name="choose_date">Escolha a data</string>
+    <string name="task_category">Escolha a categoria:</string>
+    <string name="add_new_task">Adicione nova tarefa</string>
+    <string name="edit_task">Edite tarefa</string>
+    <string name="change_date">Mudar data</string>
+    <string name="delete_task">Deletar atividade</string>
+    <string name="time_string">Hora</string>
+    <string name="date_format">DD/MM/AAAA</string>
+    <string name="time_format">HH:MM</string>
+    <string name="select_time_new">Escolha o hor\u00E1rio</string>
+</resources>
